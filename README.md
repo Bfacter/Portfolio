@@ -21,7 +21,7 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 
 Connect with me! Feel free to reach out for collaboration, job opportunities, or just to say hello.
 
-- **Email:** abhi09148299@gmail.com
+- **Email:** bhawanshbaleja@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/bhawansh-baleja/](linkedin-link)
 - **Portfolio:** [https://github.com/Bfacter/Portfolio.git](your-portfolio-link)
 
